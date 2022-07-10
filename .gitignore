@@ -1,8 +1,5 @@
 #ignora las carpetas node_modules
 node_modules/
 
-#ignora los archivos json excepto por package
-*.json
-!packages.json
 
 
